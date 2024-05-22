@@ -1,0 +1,43 @@
+
+body
+{
+	background-color : black;
+	color : white;
+	font-family : monospace;
+	font-size : 17px;
+}
+
+.comment
+{
+	color : blue;
+	font-style : italic;
+}
+.macro
+{
+	color : magenta;
+}
+.str-literal
+{
+	color : red;
+}
+.char-literal
+{
+	color : red;
+}
+.numerical
+{
+	color : darkorange;
+}
+.keyword-data
+{
+	color : lime;
+}
+.keyword-nondata
+{
+	color : goldenrod;
+}
+.esc-literal
+{
+	color : fuchsia;
+}
+
